@@ -1,4 +1,4 @@
-const colorBox = document.getElementById("color-box");
+const colorBox = document.getElementById("color-box")
 const changeColorBtn = document.getElementById("change-color-btn");
 
 changeColorBtn.addEventListener("click", function (event) {
